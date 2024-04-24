@@ -6,7 +6,7 @@ class Rand
 {
 
     /**
-     * @return bool
+     * @return bool A random bool
      */
     public function getBool() : bool
     {
