@@ -12,8 +12,8 @@ class Rand
     {
         $gen = rand(0, 1);
 
-        // ÜBerprüfung des Datentyps bool mit 3 x =; es wird entweder true zurückgegeben wenn $gen
-        // 1 ist oder false wenn $gen 0 null ist
+        // Überprüfung des Datentyps bool mit 3 x =; es wird entweder true zurückgegeben wenn $gen
+        // 1 ist oder false wenn $gen 0 ist
         return $gen === 1;
     }
 }
