@@ -1,0 +1,18 @@
+{
+    "name": "gbleijenberg/random-bool",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Gbleijenberg\\RandomBool\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "gbleijenberg",
+            "email": "gbleijenberg@schueler.hakzell.at"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
